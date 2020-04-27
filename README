@@ -9,7 +9,7 @@ To open, download the appropriate file, go to the command-line and use either:
 or 
 "tar -xvzf admixture_macosx-1.3.0.tar.gz"
 
-If you use ADMIXTURE, please cite our paper [8]. Bibtex code:
+If you use ADMIXTURE, please cite our paper. Here's the bibtex entry:
 @article{alexander2009admixture,
   title={{Fast model-based estimation of ancestry in unrelated individuals}},
   author={Alexander, D.H. and Novembre, J. and Lange, K.},
