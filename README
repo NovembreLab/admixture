@@ -1,0 +1,21 @@
+
+
+This repository contains the releases of the ADMIXTURE software.
+
+You will find release gzipped tar files for linux and Mac OSX under the releases sub-directory. 
+
+To open, download the appropriate file, go to the command-line and use either:
+"tar -xvzf admixture_linux-1.3.0.tar.gz"
+or 
+"tar -xvzf admixture_macosx-1.3.0.tar.gz"
+
+If you use ADMIXTURE, please cite our paper [8]. Bibtex code:
+@article{alexander2009admixture,
+  title={{Fast model-based estimation of ancestry in unrelated individuals}},
+  author={Alexander, D.H. and Novembre, J. and Lange, K.},
+  journal={Genome Research},
+  volume={19},
+  pages={1655--1664},
+  year={2009},
+  publisher={Cold Spring Harbor Lab},
+  doi={10.1101/gr.094052.109}}
